@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-tree-viewer-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-tree-viewer",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-tree-viewer-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/tree-viewer.md",
+  "presentationPlan": "projects/genealogy/nuxt/tree-viewer.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
